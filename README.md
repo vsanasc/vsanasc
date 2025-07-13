@@ -12,8 +12,8 @@
 - 🧭 10+ years crafting software solutions, from startups to Fortune 500s  
 - 📱 iOS specialist (Swift, SwiftUI, UIKit) — building smooth, maintainable apps  
 - ⚙️ DevOps advocate — CI/CD, Docker, GitHub Actions, Fastlane  
-- 🌍 LATAM-based, working globally (Disney, Zoox, Nissan USA, Carnival Cruise Lines)  
-- 👥 Tech lead & mentor — empowering teams and simplifying complexity  
+- 🌍 LATAM-based, working globally like: Disney, Zoox, Nissan USA, Carnival Cruise Lines (via [Globant](https://www.globant.com/]))
+- 👥 Tech lead & mentor — consistently appreciated by my teams and leaders for fostering trust, growth, and results
 - 🌐 Trilingual: Portuguese 🇧🇷 · Spanish 🇪🇸 · English 🇺🇸
 
 ---
@@ -29,9 +29,12 @@
 ### ☁️ DevOps & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Azure Pipelines](https://img.shields.io/badge/Azure--Pipelines-0078D7?logo=azurepipelines&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00C7B7?logo=fastlane&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge)
+![Proxmox](https://img.shields.io/badge/Proxmox-333333?style=for-the-badge)
+
 
 ### 🌐 Web & Backend
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
