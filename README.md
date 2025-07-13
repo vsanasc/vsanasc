@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <em>Always building product. Always delivering.</em> 🛠️🚀
+  <em>Always building great products. Always delivering.</em> 🛠️🚀
 </p>
